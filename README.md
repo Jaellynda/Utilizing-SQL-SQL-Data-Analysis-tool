@@ -6,7 +6,7 @@ The foundational logic of SQL is closely in sync with that of other tools and la
 
 # Important Definitions
 SQL is a conceptual language crafted for the management and interaction with data stored in databases, with our specific utilization being the SQLite implementation. It's noteworthy that the capabilities outlined in this document are shared by most SQL languages. Differences among them typically revolve around factors such as performance, advanced analytical features, and, of course, pricing considerations.
-
+ 
 In the realm of data analysis, we will employ SQL to formulate queries for extracting data from the database, executing various manipulations, sorting the data, and gleaning meaningful insights from it.
 
 The foundation of any database lies in its tables, acting as repositories for all the data. Generally, data is structured into multiple tables rather than being stored in a single location, emphasizing the importance of thoughtful data structure design. This script primarily centers on the techniques for working with these tables.
